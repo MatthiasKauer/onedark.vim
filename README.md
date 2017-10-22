@@ -1,3 +1,10 @@
+
+# Adjustments of this fork
+- The original gray looks weirdly wrong to me so I made the background more black.
+
+Use table from <http://vim.wikia.com/wiki/Xterm256_color_names_for_console_Vim> for xterm colors.
+
+
 # onedark.vim
 
 A dark Vim/Neovim color scheme for the GUI and 16/256/true-color terminals, based on [FlatColor](https://github.com/MaxSt/FlatColor), with colors inspired by the excellent [One Dark syntax theme](https://github.com/atom/one-dark-syntax) for the [Atom text editor](https://atom.io).
